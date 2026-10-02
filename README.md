@@ -29,7 +29,7 @@ Mahasiswa Informatika Universitas Kristen Petra (IPK 3,78) yang berfokus pada **
 * 🛍️ **[E-Commerce Platform (Laravel)](./e-commerce)**  
   Aplikasi platform e-commerce berbasis Laravel dengan fitur manajemen produk, keranjang belanja, checkout, dan admin dashboard.
 
-* 🚗 **[Toyota Promotion Project](./toyota-promo)**  
+* 🚗 **[Toyota Promotion Project (Laravel)](./toyota-promo)**  
   Projek kampanye dan promosi Toyota.
 
 ---
